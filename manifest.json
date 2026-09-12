@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "description": "Datasets adversariales para vamp-llm-probe — VampSecure Labs Security Research Division",
+  "repo": "https://github.com/Vampsecure-Labs/vamp-llm-payloads",
+  "files": {
+    "jailbreak_prompts.csv": {
+      "sha256": "b1a809180e218f773c2814cc1af0aa8a8e7e6cedbff201e3b6a0470c3638331b",
+      "size": 1337801
+    },
+    "injection_prompts.csv": {
+      "sha256": "a2a13e7f387dd4b89088aa7e33de54f2b60a26230b06204b3c6df1ab83b35f57",
+      "size": 43145
+    },
+    "injection_prompts_es.csv": {
+      "sha256": "e06c7bd979356893d70dc440133e68cb5ed3803a42ea60b4c03b9064f8b96643",
+      "size": 6406
+    },
+    "forbidden_questions.csv": {
+      "sha256": "0d1e5cae6eb755f31103809ee45cfc537e9e2d92b5171f08704bae7de82081c3",
+      "size": 38076
+    },
+    "jailbreak_prompts_es.csv": {
+      "sha256": "a485786dfce1281b26fd0052950f041f756c2e05e3249212bf00da97af62c230",
+      "size": 5956
+    },
+    "ascii_smuggling_payloads.json": {
+      "sha256": "b86b7c85c09a2a6dc7cf3ae74aadc4f795702e99484b000c377a9e2439e6f24e",
+      "size": 841
+    }
+  }
+}
