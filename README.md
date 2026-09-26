@@ -1,3 +1,4 @@
+<!-- © VampSecure Studios — VampSecure Labs Security Research Division -->
 # vamp-llm-payloads
 
 > **VampSecure Labs Security Research Division**
@@ -39,3 +40,6 @@ investigación y desarrollo de defensas contra ataques de inyección de prompts 
 Cualquier uso fuera de estos contextos es responsabilidad del usuario.
 
 © VampSecure Studios — VampSecure Labs Security Research Division
+
+## Versión
+Herramienta de investigación — VampSecure Labs Security Research Division
